@@ -7,6 +7,7 @@
 
 ---
 
+
 ## Project Overview
 
 This project builds a supervised binary classification model to predict whether a bank client will subscribe to a term deposit following a direct marketing campaign. The pipeline covers data loading, EDA, preprocessing, model comparison, fine-tuning, and final evaluation.
