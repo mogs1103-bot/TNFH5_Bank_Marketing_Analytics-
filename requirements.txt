@@ -1,0 +1,8 @@
+# MSIN0097 Predictive Analytics — Bank Marketing Campaigns
+# Python 3.10+
+
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+ucimlrepo>=0.0.3
